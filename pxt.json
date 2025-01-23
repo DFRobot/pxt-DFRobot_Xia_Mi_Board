@@ -9,7 +9,6 @@
     "files": [
         "README.md",
         "custom.ts",
-        "sendBuffer.asm",
         "NecIR.cpp",
         "i2c.cpp",
         "_locales/zh-cn/DFRobot_xia_mi_Board-strings.json",
